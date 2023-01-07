@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-// this line was added in vscode web (for learning purposes)
+// this line was committed from vscode web (for learning purposes)
 
 #define CLS "cls"
 #define QUAS "Quas"
